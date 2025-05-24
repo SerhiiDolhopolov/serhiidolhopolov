@@ -3,34 +3,57 @@
 ## Hello! 👋 My name is Serhii and I'm a beginner Data engineer
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-d6123c?style=for-the-badge&logo=python&color=d6123c&labelColor=d6123c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-d6123c?style=for-the-badge&logo=c-sharp&color=d6123c&labelColor=d6123c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-d6123c?style=for-the-badge&logo=postgresql&color=d6123c&labelColor=d6123c&logoColor=white) ![JASS](https://img.shields.io/badge/JASS-d6123c?style=for-the-badge&logo=warcraft&color=d6123c&labelColor=d6123c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JASS](https://img.shields.io/badge/JASS-1B2838?style=for-the-badge&logo=warcraft&logoColor=white)
 
 ---
 
 ### Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-d6123c?style=for-the-badge&logo=visualstudiocode&color=d6123c&labelColor=d6123c&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual%20studio-d6123c?style=for-the-badge&logo=visual-studio&color=d6123c&labelColor=d6123c&logoColor=white) ![Jupyter Lab](https://img.shields.io/badge/jupyter%20lab-d6123c?style=for-the-badge&logo=jupyter&color=d6123c&labelColor=d6123c&logoColor=white) ![docker](https://img.shields.io/badge/docker-d6123c?style=for-the-badge&logo=docker&color=d6123c&labelColor=d6123c&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-d6123c?style=for-the-badge&logo=photoshop&color=d6123c&labelColor=d6123c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white)
 
 ---
 
 ### Frameworks for working with data and its visualization
-![numpy](https://img.shields.io/badge/numpy-d6123c?style=for-the-badge&logo=numpy&color=d6123c&labelColor=d6123c&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-d6123c?style=for-the-badge&logo=pandas&color=d6123c&labelColor=d6123c&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-d6123c?style=for-the-badge&logo=matplotlib&color=d6123c&labelColor=d6123c&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-d6123c?style=for-the-badge&logo=seaborn&color=d6123c&labelColor=d6123c&logoColor=white) ![plotly](https://img.shields.io/badge/plotly-d6123c?style=for-the-badge&logo=plotly&color=d6123c&labelColor=d6123c&logoColor=white) ![scikit learn](https://img.shields.io/badge/scikit%20learn-d6123c?style=for-the-badge&logo=scikitlearn&color=d6123c&labelColor=d6123c&logoColor=white) ![pytorch](https://img.shields.io/badge/pytorch-d6123c?style=for-the-badge&logo=pytorch&color=d6123c&labelColor=d6123c&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-76B7B2?style=for-the-badge&logo=seaborn&logoColor=white)
+![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
 ### Other frameworks
-![aiogram](https://img.shields.io/badge/aiogram-d6123c?style=for-the-badge&logo=telegram&color=d6123c&labelColor=d6123c&logoColor=white) ![selenium](https://img.shields.io/badge/selenium-d6123c?style=for-the-badge&logo=selenium&color=d6123c&labelColor=d6123c&logoColor=white) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-d6123c?style=for-the-badge&logo=sqlalchemy&color=d6123c&labelColor=d6123c&logoColor=white) ![fastapi](https://img.shields.io/badge/fastapi-d6123c?style=for-the-badge&logo=fastapi&color=d6123c&labelColor=d6123c&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
+![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-CA504A?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ### Tools for data processing and transmission
-![kafka](https://img.shields.io/badge/kafka-d6123c?style=for-the-badge&logo=apachekafka&color=d6123c&labelColor=d6123c&logoColor=white) ![airflow](https://img.shields.io/badge/airflow-d6123c?style=for-the-badge&logo=apacheairflow&color=d6123c&labelColor=d6123c&logoColor=white) ![pyspark](https://img.shields.io/badge/pyspark-d6123c?style=for-the-badge&logo=apachespark&color=d6123c&labelColor=d6123c&logoColor=white)
+![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![pyspark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
 ### Data bases
-![SQLite](https://img.shields.io/badge/sqlite-d6123c?style=for-the-badge&logo=sqlite&color=d6123c&labelColor=d6123c&logoColor=white) ![postgreSQL](https://img.shields.io/badge/postgresql-d6123c?style=for-the-badge&logo=postgresql&color=d6123c&labelColor=d6123c&logoColor=white) ![clickhouse](https://img.shields.io/badge/clickhouse-d6123c?style=for-the-badge&logo=clickhouse&color=d6123c&labelColor=d6123c&logoColor=white) ![redis](https://img.shields.io/badge/redis-d6123c?style=for-the-badge&logo=redis&color=d6123c&labelColor=d6123c&logoColor=white) ![minio s3](https://img.shields.io/badge/minio%20s3-d6123c?style=for-the-badge&logo=minio&color=d6123c&labelColor=d6123c&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![clickhouse](https://img.shields.io/badge/clickhouse-FFDD00?style=for-the-badge&logo=clickhouse&logoColor=black)
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![minio s3](https://img.shields.io/badge/minio%20s3-CB1F2A?style=for-the-badge&logo=minio&logoColor=white)
 
 ---
 
 ### Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-d6123c?style=for-the-badge&logo=telegram&color=d6123c&labelColor=d6123c&logoColor=white)](https://t.me/seryu_snd) [![Email](https://img.shields.io/badge/Email-d6123c?style=for-the-badge&logo=gmail&color=d6123c&labelColor=d6123c&logoColor=white)](mailto:serhiidolhopolovcoder@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seryu_snd)
+[Email](mailto:serhiidolhopolovcoder@gmail.com)
