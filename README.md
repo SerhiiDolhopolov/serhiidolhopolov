@@ -45,7 +45,7 @@
 
 ---
 
-### Data bases
+### Databases
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![clickhouse](https://img.shields.io/badge/clickhouse-FFDD00?style=for-the-badge&logo=clickhouse&logoColor=black)
@@ -56,4 +56,4 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seryu_snd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhiidolhopolovcoder@gmail.com)
+<a href="mailto:serhiidolhopolovcoder@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
