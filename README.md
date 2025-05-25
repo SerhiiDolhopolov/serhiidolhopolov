@@ -1,6 +1,15 @@
 ![Header](images/header.gif)
 
 ## Hello! 👋 My name is Serhii and I'm a beginner Data engineer
+## About me
+Previously, I developed in C# using Selenium, Telegram Bot, Windows Forms App, WPF and Unity. Now I want to work with data and become a Data Engineer.
+
+I really enjoy process automation.
+
+**My hobbies:**
+- Sometimes I build maps for Warcraft III using the functional programming language JASS. <img src="https://img.shields.io/badge/JASS-1B2838?style=flat-square&logo=warcraft&logoColor=white" alt="Warcraft III" width="26" style="vertical-align:middle;"/>
+
+- Plasma donation. <img src="images/blood-pressure.ico" alt="Blood Donation" width="26" style="vertical-align:middle;"/>
 
 ## Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
