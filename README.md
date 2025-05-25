@@ -30,18 +30,18 @@
 
 ---
 
+## Tools for data processing and transmission
+[![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
+[![airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](#)
+[![pyspark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+
+---
+
 ## Other frameworks
 [![aiogram](https://img.shields.io/badge/aiogram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](#)
 [![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
 [![sqlalchemy](https://img.shields.io/badge/sqlalchemy-CA504A?style=for-the-badge&logo=sqlalchemy&logoColor=white)](#)
 [![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-
----
-
-## Tools for data processing and transmission
-[![kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
-[![airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](#)
-[![pyspark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
 
 ---
 
