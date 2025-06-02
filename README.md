@@ -1,16 +1,24 @@
 ![Header](images/header.gif)
 
 ## Hello! 👋 My name is Serhii and I'm a beginner Data engineer
+
 ## About me
+
 ### **Why I start programming**
 I started my programming journey at around 12 years old. Once, I was digging through the [Block Story](https://store.steampowered.com/app/270110/Block_Story/?l=russian) game files and noticed files with hero characteristics and worlds. They were simple [.json](https://www.json.org/) files. I started changing these files to get unique items and characteristics, and eventually became an admin in a large game public group, where I organized various competitions.  
+
+---
 
 ### **[C#](https://learn.microsoft.com/dotnet/csharp/) hobby**
 This inspired me to start learning programming as a hobby. At first, I tried to learn basic [Java](https://www.java.com/), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript), and [HTML](https://developer.mozilla.org/docs/Web/HTML), but I enjoyed [C#](https://learn.microsoft.com/dotnet/csharp/) much more.  
 I wanted to develop games. I made several games such as fifteen, modified fool, monopoly, an auto-solver for minesweeper, an economic Telegram game, and also tried to make a turn-based strategy in Unity.
 
+---
+
 ### **[JASS](https://wc3we.fandom.com/wiki/Jass_Coding) hobby**
 I also started developing [Warcraft III](https://warcraft3.blizzard.com/ru-ru/) maps like [League of Legends](https://www.leagueoflegends.com/ru-ru/) using the scripting language [JASS].
+
+---
 
 ### **C# Commercial**
 #### **At university**
@@ -19,20 +27,29 @@ Later, I earned money by developing automatic calculators for university assignm
 #### **1 year experience with automation via [Selenium](https://www.selenium.dev/)**
 I worked for one year automating communication with visitors to a sales site for the purpose of advertising a certain product. The interlocutor had to be convinced that my bot was a real buyer according to a communication template and by generating a unique image for the user. For the implementation, I used standard page parsing, [Selenium](https://www.selenium.dev/), a custom library for creating images, as well as a Telegram bot for control.
 
+---
+
 ### **[Python](https://www.python.org/)**
 #### **Start and commercial**
 In November 2024, I started learning [Python](https://www.python.org/). In a month, I commercially developed a CRM Telegram bot with auto-analytics for a small business focused on phone repair and resale.
 
+
 #### **[BigDataLab](https://www.bigdatalab.com.ua/)**
 In February 2025, I started taking the course [BigDataLab from Vodafone](https://www.bigdatalab.com.ua/), so I want to work with data and become a Data Engineer.
 
+---
+
 ### Epilogue
 So how you can notice, I really enjoy make games as a hobbie and process automation.
+
+---
 
 ## **My hobbies:**
 - Sometimes I build maps for Warcraft III using the functional programming language [JASS](https://wc3we.fandom.com/wiki/Jass_Coding). <img src="https://img.shields.io/badge/JASS-1B2838?style=flat-square&logo=warcraft&logoColor=white" alt="Warcraft III" width="26" style="vertical-align:middle;"/>
 
 - Plasma donation. <img src="images/blood-pressure.ico" alt="Blood Donation" width="26" style="vertical-align:middle;"/>
+
+---
 
 ## Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
